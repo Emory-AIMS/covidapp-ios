@@ -1,0 +1,157 @@
+
+/* bluetooth title alert */
+"Bluetooth" = "Bluetooth";
+
+/* notification open */
+"If you’ve been close to an infected person in the past two weeks we will notify you. That’s it, just one notification." = "Se sei stato vicino a una persona infetta nelle ultime due settimane, ti faremo sapere. Tutto qui, solo una notica.";
+
+/* location title alert */
+"Location" = "Posizione";
+
+/* notification title alert */
+"Notification" = "Notifiche";
+
+/* bluetooth unavailable */
+"The bluetooth seems to be resetting, please try later" = "Il bluetooth sembra essere non disponibile, riprova più tardi";
+
+/* bluetooth unavailable */
+"The bluetooth seems to be unavailable on your device" = "Il bluetooth sembra non essere disponibile sul tuo dispositivo";
+
+/* location unavailable */
+"The location seems to be unavailable on your device" = "La posizione sembra non essere disponibile sul tuo dispositivo";
+
+/* location open always */
+"We need to access always the location, please Open Settings -> CovidApp -> Location -> Always" = "CovidApp ha bisogno di accedere alla posizione costantemente, puoi abilitare i permessi da Impostazioni -> CovidApp -> Posizione -> Sempre";
+
+/* bluetooth open app settings */
+"We need to access the bluetooth, please Open Settings -> CovidApp -> enable bluetooth access" = "CovidApp ha bisogno del bluetooth, apri Impostazioni -> Bluetooth -> abilita";
+
+/* location open  */
+"We need to access the location, please Open Settings -> CovidApp -> enable location access" = "CovidApp ha bisogno della posizione, apri Impostazioni -> Privacy -> Servizi di localizzazione -> abilita";
+
+/* bluetooth off */
+"You need to enable the bluetooth, please Open Settings -> Bluetooth -> enable bluetooth" = "CovidApp ha bisogno del bluetooth, apri Impostazioni -> Bluetooth -> abilita bluetooth";
+
+/* location denied */
+"You need to enable the location, please Open Settings -> Privacy -> Location services" = "CovidApp ha bisogno della posizione, apri Impostazioni -> Privacy -> Servizi di localizzazione";
+
+/* Infected status */
+"Infected" = "Infetto";
+
+/* Suspect status */
+"Suspect" = "Sospetto";
+
+/* Give bluetooth permission */
+"Give bluetooth permission" = "Concedi permessi bluetooth";
+
+/* Bluetooth permission */
+"Bluetooth permission" = "Permessi bluetooth";
+
+/* Enable location access */
+"Enable location access" = "Abilita monitoraggio distanza";
+
+/* Enable notifications */
+"Enable notifications" = "Abilita notifiche";
+
+/* Location access */
+"Location access" = "Monitoraggio distanza";
+
+/* Notifications */
+"Notifications" = "Notifiche";
+
+/* location open always */
+"We need to access always the location, please Open Settings -> Coronavirus Herd Immunity -> Location -> Always" = "CovidApp ha bisogno di accedere alla posizione costantemente, puoi abilitare i permessi da Impostazioni -> CovidApp -> Posizione -> Sempre";
+
+/* bluetooth open app settings */
+"We need to access the bluetooth, please Open Settings -> Coronavirus Herd Immunity -> enable bluetooth access" = "CovidApp ha bisogno del bluetooth, apri Impostazioni -> Bluetooth -> abilita";
+
+/* location open  */
+"We need to access the location, please Open Settings -> Coronavirus Herd Immunity -> enable location access" = "CovidApp ha bisogno della posizione, apri Impostazioni -> Privacy -> Servizi di localizzazione -> abilita";
+
+/* Healed status */
+"Healed" = "Guarito";
+
+/* Quarantine status */
+"Quarantine" = "Quarantena";
+
+/* Body Email */
+"Body Email" = "Prova https://coronavirus-outbreak-control.github.io/web-en/";
+
+/* Body SMS */
+"Body SMS" = "Prova https://coronavirus-outbreak-control.github.io/web-en/";
+
+/* Email not enabled */
+"Email not enabled" = "Email non disponibile";
+
+/* Link copied */
+"Link copied" = "Link copiato";
+
+/* social not available */
+"not available" = "non disponibile";
+
+/* website */
+"Share Text" = "Prova CovidApp!";
+
+/* SMS not enabled */
+"SMS not enabled" = "SMS non abilitati";
+
+/* website */
+"Website URL" = "https://coronavirus-outbreak-control.github.io/web-en/";
+
+/* Share Text Social */
+"Share Text Social" = "Prova CovidApp!";
+
+/* No risk detected */
+"No risk detected" = "Nessun rischio trovato";
+
+/* Error response code from api
+   Google validation not passed */
+"We couldn't verify your identity, please check your internet connection and try again later." = "Non siamo stati in grado di verificare la tua identità, controlla la connessione a internet e riprova più tardi.";
+
+/* Generic alert */
+"Alert" = "Attenzione";
+
+/* High risk */
+"High risk" = "Alto rischio";
+
+/* Low risk */
+"Low risk" = "Basso rischio";
+
+/* Mid risk */
+"Mid risk" = "Medio rischio";
+
+/* Content description infected virologist panel */
+"Content description infected" = "Ti raccomandiamo di seguire le istruzioni del dottore.";
+
+/* Healed Status message */
+"Healed Status message" = "Ce l'hai fatta! Sei al sicuro adesso.";
+
+/* Infected Status message */
+"Infected Status message" = "Sei risultato positivo al Coronavirus. Resta a casa per proteggere te e le persone intorno a te.";
+
+/* Normal Status message */
+"Normal Status message" = "Non sei stato vicino a nessuna persona infetta.";
+
+/* Quarantine Status message */
+"Quarantine Status message" = "Sei risultato positivo al Coronavirus. Resta a casa per proteggere te ed i tuoi cari.";
+
+/* Short description infected virologist panel */
+"Short description infected" = "Sei risultato positivo al Coronavirus. Resta a casa per proteggere te ed i tuoi cari.";
+
+/* Content description infected virologist panel */
+"Content description normal" = "Se incroci la strada con una persona infetta ti contatteremo.";
+
+/* Short description infected virologist panel */
+"Short description normal" = "Non sei stato a contatto con una persona infetta.";
+
+/* Quarantine Status message high risk */
+"Quarantine Status message high risk" = "Non avere paura.\nSei stato a contatto con una persona che è risultata positiva al Coronavirus. Resta a casa per proteggere te e le persone intorno a te.\nIn caso di sintomi, chiama immediatamente il tuo medico di famiglia o la guardia medica.";
+
+/* Quarantine Status message low ris */
+"Quarantine Status message low ris" = "Sei stato a contatto con una persona sospetta al Coronavirus. Resta a casa per proteggere te e le persone intorno a te.";
+
+/* Quarantine Status message mid risk */
+"Quarantine Status message mid risk" = "Sei stato brevemente a contatto con una persona che è risultata positiva al Coronavirus. Resta a casa per proteggere te e le persone intorno a te.";
+
+/* Suspect Status message */
+"Suspect Status message" = "Sei stato a contatto con una persona che è risultata positiva al Coronavirus. Resta a casa per proteggere te e le persone intorno a te.";

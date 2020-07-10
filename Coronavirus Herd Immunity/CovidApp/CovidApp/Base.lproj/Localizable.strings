@@ -1,0 +1,151 @@
+
+/* bluetooth title alert */
+"Bluetooth" = "Bluetooth";
+
+/* notification open */
+"If you’ve been close to an infected person in the past two weeks we will notify you. That’s it, just one notification." = "If you’ve been close to an infected person in the past two weeks we will notify you. That’s it, just one notification.";
+
+/* location title alert */
+"Location" = "Location";
+
+/* notification title alert */
+"Notification" = "Notification";
+
+/* bluetooth unavailable */
+"The bluetooth seems to be resetting, please try later" = "The bluetooth seems to be resetting, please try later";
+
+/* bluetooth unavailable */
+"The bluetooth seems to be unavailable on your device" = "The bluetooth seems to be unavailable on your device";
+
+/* location unavailable */
+"The location seems to be unavailable on your device" = "The location seems to be unavailable on your device";
+
+/* location open always */
+"We need to access always the location, please Open Settings -> CovisApp -> Location -> Always" = "CovidApp needs to access always the location, please Open Settings -> CovisApp -> Location -> Always";
+
+/* bluetooth open app settings */
+"We need to access the bluetooth, please Open Settings -> CovidApp -> enable bluetooth access" = "CovidApp needs to access the bluetooth, please Open Settings -> CovidApp -> enable bluetooth access";
+
+/* location open  */
+"We need to access the location, please Open Settings -> CovidApp -> enable location access" = "CovidApp needs to access the location, please Open Settings -> CovidApp -> enable location access";
+
+/* bluetooth off */
+"You need to enable the bluetooth, please Open Settings -> Bluetooth -> enable bluetooth" = "CovidApp needs to access bluetooth, please Open Settings -> Bluetooth -> enable bluetooth";
+
+/* location denied */
+"You need to enable the location, please Open Settings -> Privacy -> Location services" = "CovidApp needs to access the location, please Open Settings -> Privacy -> Location services";
+
+/* Infected status */
+"Infected" = "You tested positive to Coronavirus";
+
+/* Suspect status */
+"Suspect" = "You have been marked as suspect";
+
+/* Give bluetooth permission */
+"Give bluetooth permission" = "Give bluetooth permission";
+
+/* Bluetooth permission */
+"Bluetooth permission" = "Bluetooth permission";
+
+/* Enable location access */
+"Enable location access" = "Enable distance monitoring";
+
+/* Enable notifications */
+"Enable notifications" = "Enable notifications";
+
+/* Location access */
+"Location access" = "Distance monitoring";
+
+/* Notifications */
+"Notifications" = "Notifications";
+
+/* location open always */
+"We need to access always the location, please Open Settings -> CovidApp -> Location -> Always" = "CovidApp needs to access always the location, please Open Settings -> CovidApp -> Location -> Always";
+
+/* Healed status */
+"Healed" = "You're healed";
+
+/* Quarantine status */
+"Quarantine" = "Quarantine";
+
+/* Body Email */
+"Body Email" = "Try out https://coronavirus-outbreak-control.github.io/web-en/";
+
+/* Body SMS */
+"Body SMS" = "Try out https://coronavirus-outbreak-control.github.io/web-en/";
+
+/* Email not enabled */
+"Email not enabled" = "Email not Enabled";
+
+/* Link copied */
+"Link copied" = "Link copied";
+
+/* social not available */
+"not available" = "not available";
+
+/* website */
+"Share Text" = "Try CovidApp!";
+
+/* SMS not enabled */
+"SMS not enabled" = "SMS not enabled";
+
+/* website */
+"Website URL" = "https://coronavirus-outbreak-control.github.io/web-en/";
+
+/* Share Text Social */
+"Share Text Social" = "Try CovidApp!";
+
+/* No risk detected */
+"No risk detected" = "No risk\ndetected";
+
+/* Error response code from api
+   Google validation not passed */
+"We couldn't verify your identity, please check your internet connection and try again later." = "We couldn't verify your identity, please check your internet connection and try again later.";
+
+/* Generic alert */
+"Alert" = "Alert";
+
+/* High risk */
+"High risk" = "High risk detected";
+
+/* Low risk */
+"Low risk" = "Low risk detected";
+
+/* Mid risk */
+"Mid risk" = "Mid risk detected";
+
+/* Content description infected virologist panel */
+"Content description infected" = "We recommend you to follow your doctor's instructions.";
+
+/* Healed Status message */
+"Healed Status message" = "You made it! You're safe now.";
+
+/* Infected Status message */
+"Infected Status message" = "You tested positive to Coronavirus. We recommend you to follow your doctor's instructions.";
+
+/* Normal Status message */
+"Normal Status message" = "You haven't been near any infected person.";
+
+/* Quarantine Status message */
+"Quarantine Status message" = "You tested positive to Coronavirus. Stay at home to protect you and the others around you.";
+
+/* Short description infected virologist panel */
+"Short description infected" = "You tested positive to Coronavirus. Stay at home to protect you and the others around you.";
+
+/* Content description infected virologist panel */
+"Content description normal" = "If you got close to an infected person during your day, we'll let you know.";
+
+/* Short description infected virologist panel */
+"Short description normal" = "You haven't been near any infected person.";
+
+/* Quarantine Status message high risk */
+"Quarantine Status message high risk" = "Don't panic.\nYou have been near to someone that has tested positive to Coronavirus. You should self quarantine at home.\nPlease call immediately 111 if you start showing any symptoms.";
+
+/* Quarantine Status message low ris */
+"Quarantine Status message low ris" = "You have been near a Suspected Coronavirus case. You should self quarantine at home.";
+
+/* Quarantine Status message mid risk */
+"Quarantine Status message mid risk" = "You have been near to someone who has tested positive to Coronavirus for a short period of time. You should self quarantine at home.";
+
+/* Suspect Status message */
+"Suspect Status message" = "You have been near to someone who has tested positive to Coronavirus. You should self-quarantine at home.";

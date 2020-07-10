@@ -1,0 +1,15 @@
+
+/* 
+  InfoPlist.strings
+  CovidApp - Covid Community Alert
+
+  Created by Antonio Romano on 19/04/2020.
+  Copyright © 2020 Coronavirus-Herd-Immunity. All rights reserved.
+*/
+"NSBluetoothAlwaysUsageDescription" = "Para monitorar anonimamente suas interações, solicitaremos permissão para usar o Bluetooth.";
+
+"NSBluetoothPeripheralUsageDescription" = "Para monitorar anonimamente suas interações, solicitaremos permissão para usar o Bluetooth.";
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Para monitorar anonimamente suas interações, solicitaremos permissão para usar o local.";
+
+"NSLocationWhenInUseUsageDescription" = "Para monitorar anonimamente suas interações, solicitaremos permissão para usar o local.";

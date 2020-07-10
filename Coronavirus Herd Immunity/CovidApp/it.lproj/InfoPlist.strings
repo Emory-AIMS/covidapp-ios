@@ -1,0 +1,15 @@
+
+/* 
+  InfoPlist.strings
+  CovidApp - Covid Community Alert
+
+  Created by Antonio Romano on 19/04/2020.
+  Copyright © 2020 Coronavirus-Herd-Immunity. All rights reserved.
+*/
+"NSBluetoothAlwaysUsageDescription" = "Per monitorare in anonimato le tue interazioni abbiamo bisogno di usare il Bluetooh.";
+
+"NSBluetoothPeripheralUsageDescription" = "Per monitorare in anonimato le tue interazioni abbiamo bisogno di usare il Bluetooh.";
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Per monitorare in anonimato le tue interazioni abbiamo bisogno di accedere al rilevamento della distanza.";
+
+"NSLocationWhenInUseUsageDescription" = "Per monitorare in anonimato le tue interazioni abbiamo bisogno di accedere al rilevamento della distanza.";
